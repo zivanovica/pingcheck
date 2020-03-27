@@ -1,6 +1,6 @@
 {
   "name": "pingcheck",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic HTTP/s Health check library.",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,10 @@
     "health",
     "check"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CoaPsyFactor/pingcheck.git"
+  },
   "author": "Aleksandar Zivanovic <zivanovic.aleksandar.zve@gmail.com>",
   "license": "ISC"
 }
