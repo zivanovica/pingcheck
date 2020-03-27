@@ -1,0 +1,15 @@
+{
+  "name": "pingcheck",
+  "version": "1.0.0",
+  "description": "Basic HTTP/s Health check library.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "health",
+    "check"
+  ],
+  "author": "Aleksandar Zivanovic <zivanovic.aleksandar.zve@gmail.com>",
+  "license": "ISC"
+}
