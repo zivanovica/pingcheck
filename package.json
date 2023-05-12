@@ -1,6 +1,6 @@
 {
   "name": "pingcheck",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Basic HTTP/s Health check library.",
   "main": "index.js",
   "scripts": {
